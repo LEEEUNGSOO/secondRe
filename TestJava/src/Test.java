@@ -1,6 +1,6 @@
 
 public class Test {
   public void say(){
-    System.out.println("TT");
+    System.out.println("TTuuuuu");
   }
 }
